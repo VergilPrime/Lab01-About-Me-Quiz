@@ -1,38 +1,18 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 1 : About Me Quiz
-=====================================
+﻿﻿﻿# DustinQuiz
 
-## To Submit this Assignment
-- fork this repository
-- create a new branch named `lab01-`; + `<your name>` **e.g.** `lab01-amanda`
-- write your code
-- push to your repository
-- submit a pull request to this repository
-- submit a link to your PR in canvas
-- Include a Readme.md (contents described below)
+## How to Play
 
-## Directions
-- Create an "About Me" quiz in a console application with VS2017
-- Your solution should include the following:
-    - Main method
-	- external methods- (at least 3 non-void return types)
-	- 5 different questions
-    - Track number of correct/incorrect questions 
-      - Show the user the number of correct/incorrect to user after quiz is over
-	- Exception Handling (try/catch/finally)
-	- Are you able to incorprate a `throw` somehow? 
+First locate your copy of DustinQuiz.exe and run the file, either from the GUI or terminal.
 
-## ReadMe
-Provide setup documentation 
+From here, press Enter to progress through the quiz, answering questions as they come up. Use your keyboard to enter the number of the answer you think is closest to the correct one.
 
-- **Comment your code.**
-- Provide a readme that includes clear directions on setting up this program.
-- Questions to Consider: 
-	1. What programs do I need installed?
-	1. What are the step by step directions?
-	1. How do I run the program?
-	1. How do I know the program worked successfully?
+When you are finished, take a photograph of your computer screen and get the photo developed. Bring this photo to Dustin and he will paint your score on your body free of charge.
 
-## Rubric
-- 7pts: Program meets all requirements described in Lab directions
-- 3pts: Code meets industry standards
-- **Readme.md required for submission. Missing readme document will result in a best score of 2/10**
+Ensure that before you step away from your computer, you shut it down properly and disconnect the cable to conserve energy. Remember, only you can prevent your house catching fire.
+
+## Answer Key (No Cheating!)
+1. What is my favorite color Answer: Purple.
+2. What is my favorite hobby? Answer: Digital Painting.
+3. What am I thinking of? Answer: Sleeping.
+4. When does the Narwhal Bacon? Answer: Midnight.
+5. What are you thinking of? Answer: Anything you want.
